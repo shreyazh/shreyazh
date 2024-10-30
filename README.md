@@ -9,7 +9,8 @@
 - 🏙 **Location:** Lucknow, India
 - ⏰ **Time Zone:** Eastern Time (ET)
 [j.srivastva@student.fdu.edu](mailto:j.srivastva@student.fdu.edu)<br>
-[LinkedIn][shreyashsrivastva](https://www.linkedin.com/in/shreyashsrivastva)<br>
+[!(https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shreyashsrivastva)
+[shreyashsrivastva](https://www.linkedin.com/in/)<br>
 [@shreyashsrivastva](https://www.instagram.com/shreyazh)
 [medium.com/@shreyashsrivastva](https://medium.com/@shreyashsrivastva)
 
