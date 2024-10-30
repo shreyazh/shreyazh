@@ -1,20 +1,9 @@
-# Shreyash Srivastva
-## 👨‍💻 About Me
-## 🤖 Pronouns & More
-- **Pronouns:** He/Him
-- 🔭 Interested in **AI/ML** and **cloud-based solutions**.
-- 🌱 Currently learning **data science** and **deep learning**.
+<h1 align="center">Hi 👋, I'm Shreyash Srivastva</h1>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-## 🌍 Location & Availability
-- 🏙 **Location:** Lucknow, India
-- ⏰ **Time Zone:** Eastern Time (ET)
-[j.srivastva@student.fdu.edu](mailto:j.srivastva@student.fdu.edu)<br>
-[![](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shreyashsrivastva)<br>
-[@shreyashsrivastva](https://www.instagram.com/shreyazh)
-[medium.com/@shreyashsrivastva](https://medium.com/@shreyashsrivastva)
-
-
-<!---
-shreyazh/shreyazh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shreyashsrivastva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyashsrivastva" height="30" width="40" /></a>
+<a href="https://instagram.com/shreyazh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyazh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shreyashsri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyashsri" height="30" width="40" /></a>
+</p>
