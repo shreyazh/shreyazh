@@ -8,8 +8,8 @@
 ## 🌍 Location & Availability
 - 🏙 **Location:** Lucknow, India
 - ⏰ **Time Zone:** Eastern Time (ET)
-[j.srivastva@student.fdu.edu](mailto:j.srivastva@student.fdu.edu)
-[shreyashsrivastva](https://www.linkedin.com/in/shreyashsrivastva)
+[j.srivastva@student.fdu.edu](mailto:j.srivastva@student.fdu.edu)<br>
+[LinkedIn][shreyashsrivastva](https://www.linkedin.com/in/shreyashsrivastva)<br>
 [@shreyashsrivastva](https://www.instagram.com/shreyazh)
 [medium.com/@shreyashsrivastva](https://medium.com/@shreyashsrivastva)
 
