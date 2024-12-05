@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on [FaceEmo](https://github.com/shreyazh/Facial-Emotion-Detection-Model.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shreyazh](https://github.com/shreyazh)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/shreyazh)
 
 - 💬 Ask me about **nothing**
 
 - 📫 How to reach me **shreyash5183@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shreyashsrivastva](https://www.linkedin.com/in/shreyashsrivastva)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/shreyashsrivastva)
 
 - ⚡ Fun fact **I can use Nunchaku!**
 
