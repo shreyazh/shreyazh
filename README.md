@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/iamsrivastva" target="blank"><img src="https://img.shields.io/twitter/follow/iamsrivastva?logo=twitter&style=for-the-badge" alt="iamsrivastva" /></a> </p>
 
-- 🔭 I’m currently working on [Project Soumya](https://soumya-ashy.vercel.app/)
+- 🔭 I’m currently working on [Project Soumya](https://soumya-ashy.vercel.app)
 
 - 🌱 I’m currently learning **QML**
 
 - 👯 I’m looking to collaborate on [FaceEmo](https://github.com/shreyazh/Facial-Emotion-Detection-Model.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shreyazh/](https://github.com/shreyazh/)
+- 👨‍💻 All of my projects are available at [https://github.com/shreyazh/](https://github.com/shreyazh)
 
 - 💬 Ask me about **nothing**
 
 - 📫 How to reach me **shreyash5183@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shreyashsrivastva/](https://www.linkedin.com/in/shreyashsrivastva/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shreyashsrivastva/](https://www.linkedin.com/in/shreyashsrivastva)
 
 - ⚡ Fun fact **I can use Nunchaku!**
 
