@@ -26,7 +26,7 @@
 <a href="https://twitter.com/iamsrivastva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsrivastva" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyashsrivastva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyashsrivastva" height="30" width="40" /></a>
 <a href="https://instagram.com/shreyazh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyazh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shreyashsrivastva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shreyashsrivastva" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shreyashsrivastva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shreyashsrivastva" height="30" width="40" /></a>
 <a href="https://discord.gg/.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".." height="30" width="40" /></a>
 </p>
 
