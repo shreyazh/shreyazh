@@ -7,6 +7,7 @@
   <a href="https://ko-fi.com/shreyashsrivastva"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png" /></a>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgodofecht%2Fgodofecht&label=VISITORS&labelColor=%23000&countColor=%230A0209" align="left" />
 </p>
+
 - 🔭 I’m currently working on [Project Soumya](https://soumya-ashy.vercel.app)
 
 - 🌱 I’m currently learning **QML**
