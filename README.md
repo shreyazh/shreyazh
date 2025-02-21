@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I can use Nunchaku!**
 
 ```python
-class DataEnthusiast:
+class Quant:
     def __init__(self):
         self.name = "Shreyash Srivastva"
         self.role = "Human"
