@@ -27,10 +27,10 @@
 ```python
 class DataEnthusiast:
     def __init__(self):
-        self.name = "Gunjan Agarwal"
-        self.role = "Data Science Enthusiast"
-        self.learning = "Data Analytics"
-        self.pronouns = ["She", "Her"]
+        self.name = "Shreyash Srivastva"
+        self.role = "Human"
+        self.learning = "Quant"
+        self.pronouns = ["Cool", "Supercool"]
 ```
 
 <h3 align="left">Connect with me:</h3>
