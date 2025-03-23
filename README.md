@@ -50,7 +50,7 @@ class Quant:
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=Just%20start,%20you%20can%20never%20be%20ready."/>
 </a>
-<img src="/assets/duck-fire.webp" align="right" height="133px" style="padding-top: 55px"/>
+
 
 <!-- Github Streaks -->
 <a href="https://git.io/streak-stats">
