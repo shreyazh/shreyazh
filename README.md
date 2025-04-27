@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [FaceEmo](https://github.com/shreyazh/Facial-Emotion-Detection-Model.git)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/shreyazh)
+- 👨‍💻 All of my other projects are available at [GitHub](https://github.com/gitmanforever)
 
 - 💬 Ask me about **nothing**
 
