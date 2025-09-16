@@ -5,7 +5,7 @@
 
 | #  | Hackathon | Track | Achievement | Prize |
 |----|-----------|-------|-------------|-------|
-| 1  | TiE U - Hack@thon 2024 | Sustainability Ideathon | Sustainability Innovation + Travel Award | $1000 USD |
+| 1  | TiE U - Hackathon 2024 | Sustainability Ideathon | Sustainability Innovation + Travel Award | $1000 USD |
 | 2  | Build With AI Hybrid Hackathon | AI | Top 5 Winners | VIP Passes to Google California |
 | 3  | NASA Luna Vista ADC Q-Dev Hackathon 2024 | Quantum Computing | Best Quantum Project | $100 USD |
 | 4  | Students Hack | Open | Overall Winner | $1000 USD |
