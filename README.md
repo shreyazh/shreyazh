@@ -5,16 +5,17 @@
 
 | #  | Hackathon | Track | Achievement | Prize |
 |----|-----------|-------|-------------|-------|
-| 1  | TiE U - Hackathon 2024 | Sustainability Ideathon | Sustainability Innovation + Travel Award | $1000 USD |
+| 1  | TiE U - Hackathon 2024 | Sustainability Ideathon | Winner Prize + Travel Award | $2000 USD |
 | 2  | Build With AI Hybrid Hackathon | AI | Top 5 Winners | VIP Passes to Google California |
 | 3  | NASA Luna Vista ADC Q-Dev Hackathon 2024 | Quantum Computing | Best Quantum Project | $100 USD |
 | 4  | Students Hack | Open | Overall Winner | $1000 USD |
-| 5  | Hardware Education Ideathon | Hardware Ideathon | #1 Winner | $100 USD |
+| 5  | Hardware Education Ideathon | Hardware Ideathon | 1st PLace | $100 USD |
 | 6  | Software Education Ideathon | Software Ideathon | 2nd Place | $100 USD |
-| 7  | Hack the Future: AI & Open Source Hackathon | AI and Open Source | True OpenSource Project Winner | $1000 USD |
+| 7  | Hack the Future: AI & Open Source Hackathon | AI and Open Source | True OpenSource Project Winner | $3000 USD |
 | 8  | Steel City Hacks 2025 Winter Hackathon | AI | Best Overall Winner | $550 USD |
 | 9  | Hackonomics 2024 | Computer Science and Economics | Most Voted Award | $200 USD |
 | 10 | 404 Mission Found | Open (Finance Education) | 3rd Place | $150 USD |
+| 11 | FutureForge | Research and Development Hackathon | Winner | $100 USD |
 
 <p align="right">
   <a href="https://dev.to/shreyazh"><img src="https://img.icons8.com/windows/32/000000/dev.png" /></a>
