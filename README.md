@@ -16,7 +16,7 @@
 | 9  | Hackonomics 2024 | Computer Science and Economics | Most Voted Award | $200 USD |
 | 10 | 404 Mission Found | Open (Finance Education) | 3rd Place | $150 USD |
 | 11 | FutureForge | Research and Development Hackathon | Winner | $100 USD |
-| 12 | YuKeSong2025 | Hackathon | $200 USD |
+| 12 | YuKeSong2025 | Hackathon | Winner | $200 USD |
 
 <p align="right">
   <a href="https://dev.to/shreyazh"><img src="https://img.icons8.com/windows/32/000000/dev.png" /></a>
