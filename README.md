@@ -25,13 +25,10 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgodofecht%2Fgodofecht&label=VISITORS&labelColor=%23000&countColor=%230A0209" align="left" />
 </p>
 
-- 🔭 I’m currently working on [Retro Websites](https://github.com/shreyazh/Retro-Websites)
+- 🔭 I’m currently working on [Retro Websites](https://github.com/shreyazh/ASRS)
 
-- 🌱 I’m currently learning **QML**
-
-- 👯 I’m looking to collaborate on [FaceEmo](https://github.com/shreyazh/Facial-Emotion-Detection-Model.git)
-
-- 👨‍💻 All of my other projects are available at [GitHub](https://github.com/gitmanforever)
+- 👨‍💻 All of my other projects are available at [gitmanforever](https://github.com/gitmanforever),
+[dev1ord](https://github.com/dev1ord)
 
 - 💬 Ask me about **nothing**
 
@@ -46,7 +43,7 @@ class Quant:
     def __init__(self):
         self.name = "Shreyash Srivastva"
         self.role = "Human"
-        self.learning = "Quant"
+        self.learning = "Math"
         self.pronouns = ["Cool", "Supercool"]
 ```
 
