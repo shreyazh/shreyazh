@@ -27,8 +27,7 @@
 
 - 🔭 I’m currently working on [Psychology Websites](https://github.com/shreyazh/ASRS)
 
-- 👨‍💻 All of my other projects are available at [gitmanforever](https://github.com/gitmanforever),
-[dev1ord](https://github.com/dev1ord)
+- 👨‍💻 All of my other projects are available at [gitmanforever](https://github.com/gitmanforever)
 
 - 💬 Ask me about **nothing**
 
@@ -42,8 +41,8 @@
 class Me:
     def __init__(self):
         self.name = "Shreyash Srivastva"
-        self.role = "Human"
-        self.learning = "Math"
+        self.role = "God"
+        self.learning = "AI"
         self.pronouns = ["Cool", "Supercool"]
 ```
 
